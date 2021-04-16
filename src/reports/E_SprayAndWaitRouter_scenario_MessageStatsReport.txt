@@ -1,0 +1,20 @@
+Message stats for scenario E_SprayAndWaitRouter_scenario
+sim_time: 43200.1000
+created: 1463
+started: 21691
+relayed: 7613
+aborted: 14074
+dropped: 7544
+removed: 0
+delivered: 649
+delivery_prob: 0.4436
+response_prob: 0.0000
+overhead_ratio: 10.7304
+latency_avg: 2997.1043
+latency_med: 2292.2000
+hopcount_avg: 2.4222
+hopcount_med: 2
+buffertime_avg: 3968.1500
+buffertime_med: 3323.0000
+rtt_avg: NaN
+rtt_med: NaN
